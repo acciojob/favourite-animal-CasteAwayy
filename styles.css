@@ -1,2 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-/* Your CSS Code here. */
+
+img{
+  max-height: 100dvh;
+}
